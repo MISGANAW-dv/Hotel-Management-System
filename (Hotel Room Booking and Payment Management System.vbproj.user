@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frmAdminDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmBookingDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmCustomerDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmManageBookings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmMyBookings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmPendingBookings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRegister.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmRegisterRoom.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmViewRooms.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
